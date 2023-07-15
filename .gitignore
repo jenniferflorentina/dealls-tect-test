@@ -1,0 +1,12 @@
+.DS_Store
+
+.env
+*_env.sh
+*.env.sh
+env.sh
+
+### Go Land ###
+.idea/
+
+### VS Code ###
+.vscode/
